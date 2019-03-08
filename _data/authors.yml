@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 ahyeeonway:
-  name:              ahyeon gil
-  email:             ahyeonway@gmail.com
+  name:              hansol gil
+  email:             miaculpa1991@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    영롱한
+    software engineer
 
 
   # This photo will be used in the about section
